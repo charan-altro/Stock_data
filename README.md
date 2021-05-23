@@ -10,3 +10,19 @@ New_screener_NS_yfinance/"+ Tickers[i] + ".csv" --> will create all screener sto
 
 https://pandasninja.com/2019/04/how-to-read-lots-of-csv-files-easily-into-pandas/
 https://stackoverflow.com/questions/32490629/getting-todays-date-in-yyyy-mm-dd-in-python
+
+
+
+## Data From web Source
+### Yahoo finance
+https://pypi.org/project/yfinance/
+
+### Alpha Vantage
+https://stackoverflow.com/questions/45778710/finance-data-on-alphavantage
+https://www.alphavantage.co/
+
+### EODHistorical data
+https://eodhistoricaldata.com/financial-summary/NSE.AS
+
+### NSEpy
+https://nsepy.xyz/
